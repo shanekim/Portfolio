@@ -13,7 +13,7 @@ Refer to: Matrix Factorization based Recommendation.ipynb
 
 Launching a new product always needs great marketing campaigns. First was a direct mail postcard marketing. In order to collect potential customers' geographical information such as address, phone number, etc, I built web scrapers that automatically type zipcode  hit search button, load a full page with infinite scroll, and create AWS RDS tables that are also stored in AWS DynamoDB.
 
-Refer to: 
+Refer to: dealer_scraper - Copy.py, dealer_dynamodb - Copy.py
 
 
 #### Streamlining Inventory Management Process
