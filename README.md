@@ -4,7 +4,7 @@
 
 #### Product Recommendation Engine
 
-Washington Alloy has +3000 unique inventory item across the nationwide warehouses. In order to help salesperson to pinpoint what other customers had similar purchase pattern and provide recommendations on products, I used Matrix Factorization model that learns latent features and interaction between customers and products. This way, recommendations are applicable to different individual customer.
+Washington Alloy has +3000 unique inventory items across the nationwide warehouses. In order to help salesperson to increase sales by recommending the right products, it's important to identify similar purchase pattern among different customers and rank the score of recommendation results. I used Matrix Factorization model which learns latent features and interaction between customers and products. This way, recommendations are both customer-specific and item-specific.
 
 Refer to: Matrix Factorization based Recommendation.ipynb
 
