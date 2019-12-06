@@ -19,3 +19,9 @@ A variety of item selections is one of the most important competitive edges. And
 **Refer to**: Inventory management - Stock Transfer_.ipynb
 
 
+### Projects from Columbia University & Dataquest
+
+Refer to: Kaggle Project.ipynb
+Refer to: Decision Tree & Bias-Variance Tradeoff.ipynb
+Refer to: K-nearest Neighbors.ipynb
+Refer to: Simple project - Predicting bike rentals.ipynb
