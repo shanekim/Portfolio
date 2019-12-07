@@ -11,7 +11,7 @@ Refer to: Matrix Factorization based Recommendation.ipynb
 
 #### Web Scraper for Marketing Campaign
 
-Launching a new product always needs great marketing campaigns. First was a direct mail postcard marketing. In order to collect potential customers' geographical information such as address, phone number, etc, I built web scrapers that automatically type zipcode  hit search button, load a full page with infinite scroll, and create AWS RDS tables that are also stored in AWS DynamoDB.
+Launching a new product always needs right marketing campaigns. We chose to perform a direct mail postcard marketing, and in order to collect all of potential customers' geographical information such as address, phone number, etc, I built Python web scrapers that automatically type zipcode, hit the search button, load a full page with infinite scroll, and create dataframes that are stored in AWS RDS and DynamoDB.
 
 Refer to: dealer_scraper - Copy.py, dealer_dynamodb - Copy.py
 
