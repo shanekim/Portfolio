@@ -34,3 +34,7 @@ Refer to: Decision Tree & Bias-Variance Tradeoff.ipynb
 Refer to: K-nearest Neighbors.ipynb
 
 Refer to: Simple project - Predicting bike rentals.ipynb
+
+Refer to: ML 2 - Multiclass Classification, Overfitting.ipynb	
+
+Refer to: ML Credit Default Project.ipynb
