@@ -25,7 +25,7 @@ Result: Created a clear high-level visual dashboard that tracks stock levels and
 Refer to: Inventory management - Stock Transfer_.ipynb
 
 
-### Projects from Columbia University & Dataquest
+### Projects from Columbia University & Dataquest & Datacamp
 
 Refer to: Kaggle Project.ipynb
 
@@ -39,4 +39,5 @@ Refer to: Simple project - Predicting bike rentals.ipynb
 
 Refer to: ML 2 - Multiclass Classification, Overfitting.ipynb	
 
+Refer to: Predicting blood donation.ipynb
 
