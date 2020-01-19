@@ -1,748 +1,659 @@
-﻿,CustomerName,SignedAmount,4Cluster
-0," A & B METAL MFG. CO., INC.",495,Mini
-1," K-T Industries, LLC",48916,Mini
-2, S & K DIRECT STEEL INC.,8546,Mini
-3,* Airweld Inc - IL,440,Mini
-4,* ARKANSAS WELDING AND INDUSRIAL,14105,Mini
-5,* Central McGowan,6441,Mini
-6,* Central Welding Supply,51631,Mini
-7,"* INDUSTRIAL WELDING SUPPLY COMPANY, INC",5021,Mini
-8,* OE Meyer Co.,790960,Large
-9,* Purity Cylinder Gases Inc.,1797,Mini
-10,"* UNITED WELDING SUPPLY CO., INC/ TAYLOR WELDING",92379,Small
-11,* WILSON SUPPLY,118,Mini
-12,*A & B Welding Supply Co.,468,Mini
-13,*Ace Welding Supply,60121,Mini
-14,*ADVANCED GASES & EQUIPMENT INC,158260,Small
-15,*Advanced Welding Supply,598,Mini
-16,*ALL GAS & WELDING SUPPLY CO.,14431,Mini
-17,*ALLIED GASES & WELDING SUPPLIES INC,155287,Small
-18,*Alltex Welding Supply,670261,Large
-19,*All-Weld Products / NYMC01,4480,Mini
-20,*American Welding Supply Inc.,60,Mini
-21,*Ann Arbor Welding Supply Co.,78494,Small
-22,*A-OX WELDING SUPPLY COMPANY,8647,Mini
-23,"*Arc Gas And Supply, LLC",111811,Small
-24,*Arc3 Gases South,944795,Large
-25,*Arco Welding Supply Co.,122942,Small
-26,*Arcweld Inc,111202,Small
-27,*B&J Welding Supply,93986,Small
-28,*BENTON'S WELDING SUPPLY,226215,Small
-29,*BROOKS RANGE SUPPLY INC.,2555,Mini
-30,*California Tools (Cal Tool),558589,Medium
-31,*California Welding Supply,33173,Mini
-32,*CAMERON WELDING SUPPLY,569991,Medium
-33,*Cee Kay Supply,3670,Mini
-34,"*Central Welding Supply - N Lakewood, WA",35037,Mini
-35,*Clovis Equipment And Supply,20362,Mini
-36,*Coastal Welding Supply,37920,Mini
-37,*Complete Welders Supply,229849,Small
-38,*Compressed Gas & Supply Co.,144395,Small
-39,*Compressed Gas Solutions,1894,Mini
-40,*Cryo Weld Corp.,33162,Mini
-41,*Delille Oxygen Company,56583,Mini
-42,*Depke Gases And Welding S.,7018,Mini
-44,*EARLBECK GASES & TECHNOLOGIES,6461,Mini
-45,"*Encore Welding And Ind. Supply, LLC",198885,Small
-46,*Evansville Welding Supply,48058,Mini
-47,"*F&M Mafco, Inc",14666,Mini
-48,*Flint  Welding Supply,288,Mini
-49,*Four Corners Welding supply,105730,Small
-50,*Fresno Oxygen&Welding Supply,11771,Mini
-51,*General Distributing Co.,292404,Medium
-52,"*General Welding Supply - Westbury, NY",1721,Mini
-53,*Greco Gas Inc.,8857,Mini
-54,*GTW Welding Supply,68608,Mini
-55,*Haun Welding Supply,223970,Small
-56,*Hohenschild Welders Supply,328743,Medium
-57,*HOLSTON GASES,871030,Large
-58,*H-Town Oxygen Company,145,Mini
-59,"*Huber Supply, Inc.",62123,Mini
-60,"*Humphries, Inc",56239,Mini
-61,*Ilmo Products Co.,36499,Mini
-62,"*Indiana Oxygen Company, Inc.",96933,Small
-63,*Industrial Source,47561,Mini
-64,*Industrial Welding Supply - NJ,99018,Small
-65,*Ivey Industries,21827,Mini
-66,*Jackson Welding Supply Co.,12250,Mini
-67,*Jackson Welding& Gas Product,41770,Mini
-68,*James C. Dawes Co.,481999,Medium
-69,*James Supplies And Rental,147670,Small
-70,*JONES WELDING AND INDUSTRIAL SUPPLY,963040,Large
-71,*JW WELDING SUPPLY,17587,Mini
-72,"*Koehler Welding Supply, Inc.",114493,Small
-73,*Lampton Welding Supplies,363927,Medium
-74,*Liberty Industrial Gases,59,Mini
-75,*Mabscott Supply,92975,Small
-76,*Maine Oxy Acetylene,405241,Medium
-77,*McKinney Welding Supply Co,136057,Small
-78,*Metro WS - MI - IWDC,91277,Small
-79,*Middlesex Gases & Technologie,18327,Mini
-80,*Mississippi Welders Supply,84206,Small
-81,*Mitchell Welding Supply Co.,2476,Mini
-82,*Modern Supply Co.,60335,Mini
-83,*Noble Gas Solutions,44133,Mini
-84,*Norco Inc.,84263,Small
-85,*Northern Gases and Supply,164,Mini
-86,*OXIGENO Y ACETILENO,27706,Mini
-87,*Pennsylvania Welding Supply,104695,Small
-88,*Piners Welding Supply,236,Mini
-89,*Plains Welding supply,371,Mini
-90,"*R & M Welding Products, Inc.",108680,Small
-91,*ROCKY MOUNTAIN AIR (US Welding),25676,Mini
-92,*Ron-Son's Torch Repairs & Sales LTD.,162,Mini
-93,*SAWTELLE AND ROSPRIM IND,10781,Mini
-94,*SHASTA WELDING SUPPLY,5453,Mini
-95,*SIDNEY LEE WELDING SUPPLY,1050169,Large
-96,*SIMS ORANGE WELDING SUPPLY,16915,Mini
-97,*Skyoxygen,65021,Mini
-98,*South Jersey Welding Supply,213050,Small
-99,*Southern Oxy & Welding Supply,67249,Mini
-100,*Sutton-Garten Co.,40366,Mini
-101,"*Thompson Bro. Supplies, Inc.",289,Mini
-102,*Toll Gas & Welding Supply,11537,Mini
-103,*Usoxo Gas Supply Centers,63436,Mini
-104,*Vern Lewis Welding Supplies,280985,Medium
-105,*Weld Specialty Gas and Equip. Inc./MATHESON TRI GAS,25085,Mini
-106,*Welders Supply Co.,55940,Mini
-107,*Welders Supply of Louisville,66061,Mini
-108,*Weldstar Co.,849,Mini
-109,*WELDWORLD CORP,8880,Mini
-110,*WESCO GAS / ALWE02,652703,Large
-112,"*Wilson Products Co., Inc.",161936,Small
-113,*Youngstown Oxygen & Welding,7657,Mini
-114,"A. KALMERTON WELDING SUPPLIES, LLC",294,Mini
-115,A-1 Welding & Safety Equip. Inc.,81847,Small
-116,AAA  ORNAMENTAL IRON SUPPLIES,13243,Mini
-117,"AB Supply Company, Inc",14063,Mini
-118,Abatix Corp.,36129,Mini
-119,ABSOLUTE INDUSTRIAL SUPPLY,1383,Mini
-120,"ACE GAS, LLC",22732,Mini
-121,ACTION GAS &amp; WELDING SUPPLY,2142,Mini
-122,"ADF WELDING & MEDICAL, INC.",5262,Mini
-123,ADMAR INDUSTRIAL SALES CORP,16695,Mini
-124,ADVANCED GAS PRODUCTS & WELDING SUPPLIES,16327,Mini
-125,ADVANCED WELDER REPAIR,70,Mini
-126,Advanced Welding & Industrial,2046,Mini
-127,AEROTECHNIC USA INC,16,Mini
-128,"AGL Welding Supply Co., Inc.",84239,Small
-129,"AIR 1 SUPPLY CO., INC.",12132,Mini
-130,AIR LIQUIDE AMERICA,22780,Mini
-131,AIR UNLIMITED,9164,Mini
-132,"AIRBULK GAS & WELDING SUPPLIES, INC",18568,Mini
-133,AIRGAS - HIGH PLAINS GAS & SUPPLY LLC,20663,Mini
-134,AIRGAS - Mahany Welding Supply,2259,Mini
-135,AIRGAS - MOBILE INDUSTRIAL SUPPLY,79926,Small
-138,AIRGAS NORTH / NHAI01,734156,Large
-139,AIRGAS SAFETY / PAAI02,37831,Mini
-141,AIRGAS WEST / CASO04,649058,Large
-142,Airmix Welding Supply,23825,Mini
-143,AIRWELD INC/BRONX WELDING SUPPLY/ATLANTC WELDING SUPPLY,295894,Medium
-144,AL AHWAL IND EQUIP TR. LLC,3752,Mini
-145,A-L COMP GASES - TN,42598,Mini
-146,A-L Compressed Gases of Spokane,369710,Medium
-147,A-L SIERRA WELDING PRODUCTS,19934,Mini
-148,ALASKA BOLT & CHAIN,10210,Mini
-149,"Albright Welding Supply Co, Inc.",1860,Mini
-150,"Alcam, Inc.",8062,Mini
-151,ALLIANCE WELDING/ TECH AIR/ AIRGAS,76477,Small
-152,Allmet,17013,Mini
-153,ALLOY OXYGEN & WELDING SUPPLY CO. INC,1957,Mini
-154,Alloy Sales,32432,Mini
-155,ALLSTATE INDUSTRIAL,9385,Mini
-156,"ALT Welding Supplies, Inc.",1090,Mini
-157,AM INDUSTRIAL PRODUCTS LLC,11508,Mini
-158,AM SINGLEY / JIMMY SINGLEY,0,Mini
-159,AM Supply LLC.,8434,Mini
-160,AMERICAN AIR-TECH,1005,Mini
-161,"AMERICAN CYLINDER GAS, INC.",391,Mini
-162,American Gases Corporation,2666,Mini
-163,American INDEPENDENT,12295,Mini
-164,AMERICAN INDUSTRIAL - CA,38347,Mini
-165,American Industrial - OK,10383,Mini
-166,AMERICAN INDUSTRIAL SUPPY - TX,71999,Small
-167,American Maintenance Systems,53339,Mini
-168,American Patriots Sales & Serv./Sanitz enterprises Inc.,3523,Mini
-169,AMERICAN SUPPLY 2020 INC.,7587,Mini
-170,American Welding & Gas /MTAM01,0,Mini
-171,"American Welding and Construction Supply, Inc.",327259,Medium
-172,AMERICAN WELDING SUPPLY CO.,56317,Mini
-173,AMWEST,1880,Mini
-174,Anderson Tool & Equipment Inc.,11233,Mini
-175,"Andy Oxy Co., Inc.",19485,Mini
-176,ANGELUS WELDING/ TECH AIR OF CALIFORNIA/ AIRGAS,1059,Mini
-177,ANN ARBOR WELDING SUPPLY CO,96804,Small
-178,ANOTHER SOURCE OF SUPPLY,30516,Mini
-179,APCO SUPPLY,5833,Mini
-180,ARC RITE LIMITED,84327,Small
-181,Arc Welders Supply Inc/ Airgas,19431,Mini
-182,ARC WORKS & INDUSTRIAL SUPPLY CO. LLC,7571,Mini
-183,Arc3 Gases,135355,Small
-184,ARC-N-SPARK,23554,Mini
-185,ARCSOURCE,168179,Small
-186,ARC-ZONE,133061,Small
-187,Argen / An-tech lab,0,Mini
-188,ARIZONA STEEL & ORNAMENTAL SUPPLY,87426,Small
-189,ARKANSAS MILL SUPPLY CO,87,Mini
-190,Arlington RV & Weld Supply,1409,Mini
-191,Asia Soudure Co. Ltd,63083,Mini
-192,Associated Welding Supply-SWSI,72966,Small
-193,ATL WELDING SUPPLY LLC,43249,Mini
-194,Atlas Welding Accessories,4251,Mini
-195,ATLAS WELDING SUPPLY CO.,0,Mini
-196,AUSTECH,2973,Mini
-197,"A-WELDERS & MEDICAL SUPPLY, INC",109978,Small
-198,AWG-AMERICAN WELDING & GAS (HQ),255480,Medium
-199,Awisco,3833,Mini
-200,"AZSOS, INC.",32916,Mini
-201,"B & R INDUSTRIAL SUPPLY, INC.",16367,Mini
-202,BAJA TECH ALLOY,502,Mini
-203,Baker's Gas & Welding Supplies,43508,Mini
-204,Baltimore Welding Supply,7594,Mini
-205,Baracara Quarries Inc.,8976,Mini
-206,BARRY KAZAKOFF,22,Mini
-207,BC INDUSTRIAL SUPPLY INC,883719,Large
-208,"Beckley Welding Supply, Inc.",14646,Mini
-209,Bestway Welding Supply Co.,192628,Small
-210,Bickett Machine & Gas Supply,1031,Mini
-211,Big Apple Welding Supply Inc.,25663,Mini
-212,"BIGTEX WELDING SUPPLIES, INC",5383,Mini
-213,BILL BECKMAN INC.,0,Mini
-214,BILL DIMUZIO/ D & B TECHNICAL SALES,84,Mini
-215,BISHOP WELDING SUPPLY,473,Mini
-216,Blackhawk Supply Division OF,36275,Mini
-217,Blake Williams,0,Mini
-218,BLANDFORD WELDING MACHINE AND SUPPLIES,9750,Mini
-219,"Blue Water Industrial Products, Inc.",15540,Mini
-220,Bob Martin Company,577,Mini
-221,BOGGS GASES,65374,Mini
-222,Boyd Industrial Supply Co.,259,Mini
-223,"Brave Industrial Fastener, Inc",3248,Mini
-224,Browns Welding Supply,7959,Mini
-225,BRYCE ACREE,0,Mini
-226,BUCKEYE WELDING SUPPLY CO.,305702,Medium
-227,BUSINESS TRIBUNE CO. LTD,932,Mini
-228,C & O Distributors Inc.,291,Mini
-229,C and F Machinery Corp,1211,Mini
-230,C&C Supply Company,32508,Mini
-231,Cabarrus Welding Supply,42155,Mini
-232,Cal Tool / Helmets & 70S-6 093 & 123 Only,687802,Large
-233,California Steel & Ornamental,26054,Mini
-234,"Calko Steel, Inc.",59270,Mini
-235,"Capitol Welders Supply Co., Inc./ Praxair",33221,Mini
-236,Carolina Carbonic,850,Mini
-237,"Carolina Collision Equipment, LLC",10428,Mini
-238,Carolina Industrial Supply,286,Mini
-239,"Carolina Tool & Supply, LLC",18697,Mini
-240,CAYO STEEL WORKS LTD,2564,Mini
-241,Cbol Corporation,4091,Mini
-242,CBS Ventures,53232,Mini
-243,"CEBOTECH, INC",1928,Mini
-244,Central Ohio Welding Company,105230,Small
-245,Central Welding Supply - Alvin TX,232696,Small
-246,Central Wire Industries,0,Mini
-247,Champion Industrial Sales,93165,Small
-248,CHATFIELD MACHINE INC,14181,Mini
-249,CHI-SHIOU ENTERPRISE CO.,3714,Mini
-250,Church Towne Gas & Welding Supply,79994,Small
-251,CIE S.A.,7889,Mini
-252,Clark Industrial Supply,1857,Mini
-253,CLH Supply,534,Mini
-254,"Clinton Welding Supply, Inc.",2515,Mini
-255,Co-2 Direct Inc.,3838,Mini
-256,Coalfield Parts & Supply,14950,Mini
-257,"COASTAL INDUSTRIAL SUPPLY, LLC",45091,Mini
-258,COLONIAL HARDWARE CORPORATION,48338,Mini
-259,COLORADO COMPRESSED GASES,37344,Mini
-260,COMPRESSED GAS & SUPPLY CO/ PRAXAIR,18574,Mini
-262,Consolidated Welding Supply,588,Mini
-263,Cora Technology,353,Mini
-264,Coryell Welders Supply,140161,Small
-265,County Industrial Supply,12157,Mini
-266,"County Specialty Gases, LLC",8038,Mini
-267,County Welding Equipment Supply,694,Mini
-268,County Welding Supply Co.,38324,Mini
-269,CRAIG WELDING SUPPLY CO.,31740,Mini
-270,CRISOTH DISTRIBUIDORA SA DE CV,472677,Medium
-271,Cronatron C/O Lawson Products,10889,Mini
-272,Cross Texas Supply,84,Mini
-273,"Crumpton Welding Supply & Equip., Inc",607012,Large
-274,CULLMAN SUPPLY LLC,1271,Mini
-275,CV. Cantika Mandiri,859,Mini
-276,CWOLF INDUSTRIES LLC,143339,Small
-277,Cyg International Inc.,68048,Mini
-278,D & D Industrial Supply,58126,Mini
-279,DAIGLE WELDING SUPPLY,47424,Mini
-280,Dale Oxygen,120378,Small
-281,DAON SOLTEC,8428,Mini
-282,Dave Colwell,0,Mini
-283,Dave Ormseth,50,Mini
-284,David Eisen Machinery LTD.,5954,Mini
-285,Daxam S De Rl De Cv/ OLD COUNTRY BBQ PITS,31727,Mini
-286,DDI Welding Productos Ind.,3031,Mini
-287,DDK KNIFE,1745,Mini
-288,Del Rio Welders Equipment,36559,Mini
-289,DELTA GASES,62598,Mini
-290,Delta Mechanical,15329,Mini
-291,"Delta Welding Supply, Inc.",10039,Mini
-292,DGI SUPPLY a DoALL Company,324,Mini
-293,DIAMOND TOOL & FASTENERS,41,Mini
-294,Diamond Welding Supplies,562,Mini
-295,Direct Distributors Of NC Inc.,1143,Mini
-296,DISCOUNT WELDS,1556,Mini
-297,DIXIE WELDING,42271,Mini
-298,DJB Gas Services Inc.,46613,Mini
-299,DJ'S WELDING SUPPLY,372,Mini
-300,"DMH ABEAR ENTERPRISES, LLC",0,Mini
-301,Dockson Corporation,56492,Mini
-302,DXP Enterprises,3147,Mini
-303,DYECO INC.,9471,Mini
-304,Dynalloy Industries,2886,Mini
-305,Dytron Corp.,28003,Mini
-306,"Eagle Sales Company, Inc.",36558,Mini
-307,East Bay Weldng Supply,89110,Small
-308,East New York Hardware,190390,Small
-309,Eddie's Ace Hardware,11150,Mini
-310,ELARC WELDING PRODUCTS LIMITED,20820,Mini
-311,ELKHEAD SUPPLY INC.,2069,Mini
-312,Empire Welding Supply,64048,Mini
-313,Equipment Sales & Service - ESSI,5186,Mini
-314,EQUIPOS FRIGORIFICOS SAS,2361,Mini
-315,Eureka Oxygen Company,254491,Medium
-316,EUROCAN,1417,Mini
-317,EUROWELDING MEXICO S.A. DE C.V.,336,Mini
-318,Eutectic Canada /  XCAEU1,132944,Small
-319,Eutectic Corporation,173515,Small
-320,"EVD Equipment Co., LTD",5843,Mini
-321,"EXCELLOY INDUSTRIES, INC",1008,Mini
-322,EXOCOR LTD,212,Mini
-323,Express Mobile Welding Supply,117604,Small
-324,F&M Mafco / Direct,29916,Mini
-325,Falcon Consumables LLC,61335,Mini
-326,FASTENAL COMPANY,101092,Small
-327,FASTENER WAREHOUSE,21394,Mini
-328,FBM/ Foundation Building Materials,1326,Mini
-329,FLETCHER SUPPLY COMPANY,10585,Mini
-330,Florida Georgia Welding Supply,137165,Small
-331,FOREST CITY WELDING SUPPLY,12494,Mini
-332,Fort Stockton Welding Supply,82906,Small
-333,Fort Worth Welders Supply Inc.,1018529,Large
-334,Fsh Welding Canada,35950,Mini
-335,Fullerton Welding Supply,4452,Mini
-336,G&E WELDING SUPPLY CO,2528,Mini
-337,Gano Welding Supply,908,Mini
-338,"Gardena Welding Supply Co., Inc.",6113,Mini
-339,Gas Service Group Supply,443,Mini
-340,GASES & ARC SUPPLY/ TECH AIR/ AIRGAS,256,Mini
-341,GASES AND INDUSTRIAL SUPPLY INC (OASA),469063,Medium
-342,GASES TECNOLOGIA Y ELECTRODOS SA DE,44660,Mini
-343,GATOR CORP,1345,Mini
-344,GENERAL AIR SERVICE & SUPPLY,46912,Mini
-345,GENERAL FACTORY SUPPLY,77001,Small
-346,GETAWELDER.COM INC dba GULF COAST GAS & EQUIPMENT,196056,Small
-347,"GH Services, LLC.",33236,Mini
-348,Gilmore Liquid Air,47068,Mini
-349,GM WELDING SUPPLY,553,Mini
-350,"Goodman Supply, Inc.",1457,Mini
-351,GOPHER INDUSTRIAL,213412,Small
-352,GORDY'S WELDING SUPPLY,51006,Mini
-353,GRANDIS TITANIUM,0,Mini
-354,"GRANITE INDUSTRIAL GASES, INC.",8659,Mini
-355,"Great Dynamic Indonesia, PT.",4792,Mini
-356,"Great Lakes Welding Supply, Inc.",0,Mini
-357,Great River Industrial Supply,25040,Mini
-358,Gulf Marine & Indust. Supply,2715,Mini
-359,"GULF STATE CHEMICAL & WELDING SUPPLY, INC",23040,Mini
-360,Gwt Welding Inc.,2879,Mini
-361,H&H Supply Co (H & H),12579,Mini
-362,Hai Advanced Material,12773,Mini
-363,"HANKOOK WELDTEK CO., LTD",0,Mini
-364,HARRIS CALORIFIC SALES INC,957,Mini
-365,Harris Industrial Gases,49614,Mini
-366,HAVARD WELDING SUPPLY CO INC.,0,Mini
-367,HCL Machine Works,16950,Mini
-368,HELIUM INC,421,Mini
-369,HERRAMIENTAS PROFESIONALES VYK,7538,Mini
-370,HERRAMIENTAS Y MAS S.A.,3176,Mini
-371,"HIGGSLAB CO., LTD",522,Mini
-372,High Quality Alloys (HQA),21313,Mini
-373,"HIGHMARK MARINE FABRICATION, LLC",6912,Mini
-374,"HINKLE METALS & SUPPLY COMPANY, INC",2321,Mini
-375,"HI-POWER WELDING, INC.",3650,Mini
-376,HIPTEC AS,889,Mini
-377,HI-TECH ENTERPRISES,1262,Mini
-378,HOCON INDUSTRIAL GASES,339940,Medium
-379,HOOPER ENGINEERED VESSELS INT'L,346,Mini
-380,Houston Livestock Show and Rodeo,0,Mini
-381,HOUSTON WELDERS SUPPLY LLC,54336,Mini
-382,"HP IRON, INC/ dba HITCHN' POST IRON",11347,Mini
-383,HR Industrial,60490,Mini
-384,H-TOWN OXYGEN COMPANY,41603,Mini
-385,Humphries / **TL Only:70S-6,8914,Mini
-386,Huron Industrial Supply,30940,Mini
-387,Igo's Welding Supply Co.,30298,Mini
-388,IMPORTADORA INDUSTRIAL GEAR SUPPLY SPA,4920,Mini
-389,"INCOVE, INC.",1650,Mini
-390,"Independent Welding Supply Inc.- Fort Worth, TX",12310,Mini
-391,INDEPENDENT WELDING SUPPLY LLC - OR,57470,Mini
-392,"INDEPENDENT WELDING SUPPLY, LLC.",50664,Mini
-393,Industria En Movimento,4793,Mini
-394,Industrial Alloys Co.,5510,Mini
-395,Industrial Equipment & Welding,49955,Mini
-396,Industrial Maintenance Supply,3965,Mini
-397,INDUSTRIAL METAL SUPPLY,104937,Small
-398,Industrial Pipe & Steel Co.,8004,Mini
-399,Industrial Solution,1057,Mini
-400,"Industrial Welders Supply, Inc.",18291,Mini
-401,Industrial Welding Supply-CA,30586,Mini
-402,Industrial Welding Supply-OR (ADA),67128,Mini
-403,Ingenieursbureau Van Dijk,24260,Mini
-404,"Inland Empire Industrial Supply, Inc.",1058,Mini
-405,INNOVATOR SURFACE TECH. LTD,3789,Mini
-406,"INPRO, INC.",165436,Small
-407,Interalloys,700,Mini
-408,INTERCHEM LIMITED,84526,Small
-409,Interstate Welding & Steel Sup,11377,Mini
-411,IWS/ SOUTHERN GAS & SUPPLY CO,322678,Medium
-412,J & L Hardfacing Alloys LLC,11494,Mini
-413,"J. A. Cunningham Equipment, Inc.",73717,Small
-414,J.S. Burks & Son Supply Co.,11909,Mini
-415,J.W. KENNEDY & SON WELDING,18644,Mini
-416,James Oxygen & Supply Co.,199069,Small
-417,JF MARTIN INC.,61180,Mini
-418,Jinsung Sealtech Co.,2355,Mini
-419,"JJ PROJECTS, LLC",12710,Mini
-420,JOHNS SALES & SERVICE INC.,540042,Medium
-421,Jones Welding & Industrial Supply Inc.,22975,Mini
-422,Jones Welding Supply Inc.,19966,Mini
-423,Joramco,139,Mini
-424,Josef Inc.,0,Mini
-425,JSM STEEL & ORNAMENTAL INC.,12572,Mini
-426,Julio Cesar Alegria Amaya,16000,Mini
-427,Keen Compressed Gas Co.,289086,Medium
-428,KEITA YUSUF,7149,Mini
-429,KENNCO LLC,4563,Mini
-430,KENT WELDING SUPPLY,1740,Mini
-431,King Architectural Metals,49745,Mini
-432,"KING CITY INDUSTRIAL SUPPLY, INC.",19040,Mini
-433,KISWEL LTD,0,Mini
-434,"Knight Welding Supply, LLC",31772,Mini
-435,L.P.R. Precision Parts & Tool,166,Mini
-436,La Habra Welding Supply,33494,Mini
-437,Lagrange Supply,6199,Mini
-438,Lahatte Supply,15557,Mini
-439,LAKE WELDING SUPPLIES,263436,Medium
-440,Lancaster Alloys Company,3965,Mini
-441,Lanier Welding Products LLC,6,Mini
-442,Larry Dodson,42,Mini
-443,Lee's Tools,57454,Mini
-444,Lefeld Industrial and Welding Supplies,10601,Mini
-445,"Lenoir Oxygen Supply Co., Inc.",12475,Mini
-446,Lessors Inc.,62304,Mini
-447,Liberty Alloys,141,Mini
-448,Liberty Oil Tools Services Sdn Bhd,78,Mini
-449,"LIBERTY SUPPLY, Inc.",2341,Mini
-450,"LINKWELD TECH. CO., LTD",5284,Mini
-451,LOCK & EQUIPMENT RENTALS,151,Mini
-452,"LONE STAR REPAIR, INC",10770,Mini
-453,LOWERS INDUSTRIAL SUPPLY,8812,Mini
-454,Lynarc Welding Supplies & Material CO,30346,Mini
-455,M TEK,146,Mini
-456,M Welding Supply,84429,Small
-457,M. D MARQUES INC / DBA MARFAB,32785,Mini
-458,M.A.C. Sales Company,6985,Mini
-459,Machinery & Welder Corp.,722,Mini
-460,MACWELD MACHINING,1539,Mini
-461,MADCO WELDING SUPPLY CO - PRAXAIR,32924,Mini
-462,MagneGas Welding Supply - South LLC,21306,Mini
-463,MAGNEGAS WELDING SUPPLY - SOUTHEAST LLC,13954,Mini
-464,MagneGas Welding Supply - West LLC,230675,Small
-465,MAGNEGAS/ ARC-LA-TEC WELDING SUPPLY,763,Mini
-466,"Magnegas/ Complete Cutting Welding Supplies, Inc.",80223,Small
-467,MAGNEGAS/ Complete Welding Of San Diego,3896,Mini
-468,MAGNEGAS/ GREEN ARC SUPPLY,85774,Small
-469,Magnolia Steel & Industrial,69809,Mini
-470,Mahatta Trading Co.,25275,Mini
-471,"Maillet, Inc.",21495,Mini
-472,MAINE OXY ACETYLENE (70S-6 Wire Account),91580,Small
-473,ManteniMiento Industrial,-105,Mini
-474,MANUFACTURERS ALLIANCE / BRUCE FERRARO,0,Mini
-475,Marathon Systems Control,6945,Mini
-477,"Matsumoto US Technologies, Inc.",192,Mini
-478,Mauer Supply Company,35156,Mini
-479,"Maverick Welding Supplies, Inc.",295197,Medium
-480,Maverick Welding Supply - CA,33230,Mini
-481,MAXI SOURCE MARKETING,680,Mini
-482,"McDurmon Distributing, Inc.",14853,Mini
-483,McGregor  Welding Supply,9117,Mini
-484,McHolland Services LLc,0,Mini
-485,Mem-Bet Ltd.,439,Mini
-486,METALBRAS METALURGICA BRASILIENSE LTDA,2037,Mini
-487,"Metalweld, Inc.",1183,Mini
-488,Metro Products Inc,26366,Mini
-489,METRO WELDING SUPPLY - MN,26695,Mini
-490,METROPLEX WELDING SUPPLY,318154,Medium
-491,METSOL TECNOLOGIAS Y SERVICIOS S.A. DE C.V.,1035,Mini
-492,MIAMI INDUSTRIAL GASES INC/ dba SERVICE WELDING SUPPLY,47632,Mini
-493,Miami Int'l Machinery & Equip.,2573,Mini
-494,"Mid-South Welding Supply, Inc",7693,Mini
-495,Mid-States Distrib,163346,Small
-496,Mike Moore,1360,Mini
-497,MILLER GASES & EQUIPMENT,25417,Mini
-498,Miller Welding Supply,12570,Mini
-499,Mine & Mill Supply Co,74158,Small
-500,Minneapolis Oxygen Co.,32611,Mini
-501,"MJB Welding Supply, Inc.",45204,Mini
-502,MODERN WELDING CO.,77,Mini
-503,MODESTO WELDING PRODUCTS,43220,Mini
-504,Moreno Rojas Juan Gabriel,121450,Small
-505,MOTION INDUSTRIES CP01,484265,Medium
-506,MR. ROLAND SIHOMBING,4297,Mini
-507,MT ADVANTAGE LLC,268,Mini
-508,Mtg Fasteners Inc.,8257,Mini
-509,Muskegon Welding Supply,30415,Mini
-510,NAPOTNIK WELDING SUPPLIES,5242,Mini
-511,NATIONAL WELDING SUPPLY CO INC,152970,Small
-512,NATWEL SUPPLY CORP.,136515,Small
-513,N-E-P Corporation,5070,Mini
-514,New Bedford Welding Supply,187946,Small
-515,NEW BRAUNFELS WELDERS SUPPLY,79667,Small
-516,New Wave Welding Tech,290,Mini
-517,"Newberg Steel and Fabrication, Inc.",335,Mini
-519,NEYCO S.A.,552,Mini
-520,NGOC THANH COMPANY LTD,183,Mini
-521,Nitrogas Welding Solutions,79,Mini
-522,NOBLE EQUIPMENT EST.,1944,Mini
-523,NOELS INC.,405,Mini
-524,NOGA TOOLS LTD.,9499,Mini
-525,NOMO GROUP INC.,760,Mini
-526,NORTH COUNTY WELDING SUPPLY,180,Mini
-527,NORTHBAY GAS,30518,Mini
-528,Northeast Gas Services,21268,Mini
-529,NORTHSIDE WELDING SUPPLY,75156,Small
-530,NOVATECH,89,Mini
-531,Oconee Welding Supply,2769,Mini
-532,OIL LEGACY ENTERPRISES LLC/dba JERRY'S WELDING SUPPLY,79478,Small
-533,ONESTOP INDUSTRIAL SUPPLY,24954,Mini
-534,ORNAMENTAL IRON SUPPLY,22423,Mini
-535,OURCO SUPPLY CORPORATION,21061,Mini
-536,OXARC,34165,Mini
-537,OXYGEN PRODUCTS EDMONTON LTD.,0,Mini
-538,Oxygen Service Company,555120,Medium
-539,"OXYGEN SUPPLY CO., INC.",127,Mini
-540,"OZARCGAS EQUIPMENT & SUPPLY, INC",37999,Mini
-541,Pacific Welding Supply LLC,143,Mini
-542,Page & Macrae Ltd,315,Mini
-543,Page Steel Inc.,21390,Mini
-544,Palestine Welding Industrial,44695,Mini
-545,PALMER WELDING SUPPLY,1602,Mini
-546,Patton Sales Corporation,282462,Medium
-547,PENINSULA WELDING & MEDICAL SUPPLY,17089,Mini
-548,PENN TOOL SALES & SERVICE INC,537403,Medium
-549,Pereira Sales Company,665,Mini
-550,Performance Alloys Corp,855,Mini
-551,PGA SALES ASSOCIATES INC,34,Mini
-552,PHILLIPS STEEL COMPANY,3987,Mini
-553,"Phillip's Welding Supply, Inc.",17542,Mini
-554,PHOENIX WELDING SUPPLY Co.,6537,Mini
-555,POPE SUPPLY,12299,Mini
-556,POTOMAC STEEL & SUPPLY INC,722,Mini
-557,PR - WELDING & INDUSTRIAL SUPPLY CO/ WISCO,64839,Mini
-559,"Precision Alloy And Supply, Inc.",352086,Medium
-560,"PRECISION EQUIPMENT SYSTEMS, LLC",30,Mini
-561,"Preferred Welder Sales, Inc.",19492,Mini
-562,PRINCE/IZANTCOMPANY,1098,Mini
-563,"Professional Welding Supply, Inc",62260,Mini
-564,PT KENZINDO SEJAHTER ABADI,1048,Mini
-565,QUALITY WIRE PRODUCTS CO.,14696,Mini
-566,R & R GAS AND EQUIPMENT INC.,10436,Mini
-567,"RACING ELECTRIC INSTRUMENT CO., LTD.",1468,Mini
-568,"Rainier Welding Supplies, LLC",2242,Mini
-569,"RAM TOOL & SUPPLY CO., INC",2661,Mini
-570,"Rayco Supply, Inc.",4414,Mini
-571,REAL GASES S. DE RL DE CV,3672,Mini
-572,Red Ball Oxygen Company,164059,Small
-573,Revell Supply Group,168482,Small
-574,RGV Welding Supply/ TXDS01,55062,Mini
-575,Richards Supply Co.,219379,Small
-576,Rino Metals,884,Mini
-577,RIVERHAWK INDUSTRIAL SUPPLY,345880,Medium
-579,"ROBINSON WELDING SUPPLY, INC.",148954,Small
-580,ROCKMOUNT RESEARCH & ALLOYS,171053,Small
-581,Rosco Industrial Supply Co.,37182,Mini
-582,"Rose Steel Center, Inc.",18060,Mini
-583,Rudy & Associates,65680,Mini
-584,RW TECHNIK,61,Mini
-585,Rywal - RHC Sp. z o. o.,411,Mini
-586,S & D Supply,9953,Mini
-587,S&S SUPPLIES & SOLUTIONS,7065,Mini
-588,S.J Smith Welding Supply,19563,Mini
-589,"Safety Plus, Inc.",151771,Small
-590,Salem Welding and Supply Company Inc.,1186,Mini
-591,Salmar Ferreteria,33024,Mini
-592,Satches Welding Supplies,7699,Mini
-593,Saudi Industrial Tools Co.,16808,Mini
-594,"Scholzen Products Company, Inc.",34581,Mini
-595,"Schorr Metal, Inc.",16353,Mini
-596,Scully Welding Supply Corp/ Tech Air,90918,Small
-597,"Seaboard Welding Supply, Inc",37872,Mini
-598,Selectrode Industries,1557,Mini
-599,"Sentry Fire & Welding Supply, Inc.",5269,Mini
-600,SERRANO & SONS II,225221,Small
-601,SERRANO & SONS WELDING SUPPLY,439142,Medium
-602,Servicios Industriales,11519,Mini
-603,"Sexton Welding Supply Co., Inc.",14834,Mini
-604,Shafer & Shafer Welding Supply,2096,Mini
-605,Shanghai Hurdle Tech.,807,Mini
-606,SKIPCO WELDING & INDUSTRIAL INC,87818,Small
-607,SMI Distributing,10237,Mini
-608,SODEL,65172,Mini
-609,SOGES S.P.A. / XMXGA2 notes,2268,Mini
-610,Soldar De chihuahua Sa De CV,112696,Small
-611,Soldex S.A.,19665,Mini
-612,SOS GASES INC,42074,Mini
-613,"Soule's Auto Supply/ dba, Regulator Service Company",31412,Mini
-614,"Source One Supply, Inc.",509,Mini
-615,SourceHub LLC,759,Mini
-616,"SOUTHERN AIR CONDITIONING SUPPLY, INC.",31385,Mini
-617,Southern Welders Supply,109236,Small
-618,Southern Welding Supply - LA,4383,Mini
-619,Southwest Welders Supply,651,Mini
-620,SPECIALTY METALS,683,Mini
-621,SPECIALTY WELDING SUPPLY,66142,Mini
-622,"SRI - Supplies for Racing & Industry, Inc",4567,Mini
-623,SS INDUSTRIAL EQUIPMENT & SUPPLY CO,3267,Mini
-624,STARKOS GmbH,2798,Mini
-625,Stecher Ingenieria y Servicios EIRL,2935,Mini
-626,STEEL INDUSTRY SERVICES,13918,Mini
-627,"Steel Supply, L.P.",267565,Medium
-628,STEELCORE INDUSTRIAL SUPPLY,363124,Medium
-629,Stoody Industrial & Welding,19747,Mini
-630,Strate Welding Supply Company,139482,Small
-631,Stumpf Welding Supply,5444,Mini
-632,Suministros Internacionales,118051,Small
-633,Summers Metals & More,5030,Mini
-634,"Suncor, Inc.",3166,Mini
-635,Supreme Metal Components solutions,1271,Mini
-636,SWEET WATER SUPPLIES LLC,5508,Mini
-637,T W Smith,103742,Small
-638,T&T Supply Co.,3581,Mini
-639,TEAM ALLIED DISTRIBUTION,158706,Small
-640,TECH AIR / MAIN/ AIRGAS,379458,Medium
-641,TECH AIR COMPANIES (GASCO),82251,Small
-642,Tech Air Of California/ AIRGAS,191527,Small
-643,TECHGAS,3070,Mini
-644,Techniweld,2271,Mini
-645,Techniweld Products Corp.,2698,Mini
-646,Tecni-Sistemas,9398,Mini
-647,Terrace Supply Co.,96117,Small
-648,Terry Supply Company,23186,Mini
-649,TEXAS ICO INC.,1316,Mini
-650,Thompson Enterprises,12005,Mini
-651,Three Mules Welding Supplies,4590,Mini
-652,Thumb Welding Supplies,5350,Mini
-653,TI Squared Technologies,32916,Mini
-654,TIGDEPOT.COM/WJS CONSULTING,7798,Mini
-655,"TMI/ Texas Metal Industries, Inc.",84384,Small
-656,"TOL-CO, INC",8513,Mini
-657,Tom Hill,0,Mini
-658,"TOMBOY DISTRIBUTION, LLC",98,Mini
-659,"Torco Supply Co., Inc.",28230,Mini
-660,Total Welding Supply,3034,Mini
-661,Traeger Brothers & Assoc. Inc.,137,Mini
-662,Tri Weld Industries/A-1 Compressed,11117,Mini
-663,"Tri-Arc, Inc.",29205,Mini
-664,"TRICOR Industrial , Inc",364,Mini
-665,TRI-STAR GASES / TECH AIR/ AIRGAS,97444,Small
-666,TRISTAR SOLUTION TECHNOLOGY,1132,Mini
-667,Tristar Welding Supply Co.,801781,Large
-668,TRI-STATE IND. SUPPLY/ T-SISI,3342,Mini
-669,"TRI-STATE INDUSTRIAL SUPPLY, INC",22493,Mini
-670,Tri-State Oxygen,130,Mini
-671,TS Distributors,259828,Medium
-672,Tulsa Gas & Gear LLC,2861,Mini
-673,U.S Truss Steel Buildings Inc,65869,Mini
-674,Umpqua Industrial Supply,438,Mini
-675,Unibraze,1425,Mini
-676,"UNIMETAL SOLDADURAS, S. DE R.L. DE C.V.",2070,Mini
-677,Unioonsa S. A De C.V,62806,Mini
-678,"United Abrasives & Welding, LLC",608,Mini
-679,United Agricultural Corp. Inc.,15777,Mini
-680,United Industrial & Welding,2049,Mini
-681,UNITED MINING INDUSTRIES,10719,Mini
-682,"United Rentals, Inc.",106813,Small
-683,United States Welding (NVUS01 - Carson),4433,Mini
-684,UNITED WELDING SUPPLY COMPANY,104382,Small
-685,UNITED WELDING SUPPLY LLC,47330,Mini
-686,Universal Manufacturers,10022,Mini
-687,UNIVERSITY OF WARWICK,722,Mini
-688,UNIWELD PRODUCTS (USA) PTE LTD,2303,Mini
-689,US Cylinder Gas,47905,Mini
-690,USAMEX SOLDADURAS SA DE CV (Gramo),6257,Mini
-691,VAGABOND WELDING SUPPLY,4447,Mini
-692,"VALLEN DISTRIBUTION, INC",4828,Mini
-693,VALLEY OXYGEN  INC.,74466,Small
-694,VALLEY WELDING SUPPLY,230254,Small
-695,VICTOR WELDING - CA,59797,Mini
-696,Victor Welding - OK,294647,Medium
-697,VOLUNTEER WELDING SUPPLY INC.,294254,Medium
-698,VT WELDING SUPPLY CO,5722,Mini
-699,"Vulcan Systems, Inc. / MIVU01",5961,Mini
-700,Wahls Welding Supply Inc,19457,Mini
-701,"Wallace Propane & Appliance, Inc",37806,Mini
-702,Washington Alloy Co. (NC001),0,Mini
-703,Washington Alloy Co. (TX001),0,Mini
-704,Wayne Oxygen & Welding Supply Co.,2701,Mini
-705,WECO SUPPLY,79693,Small
-706,Weiler Welding Co./ Airgas,12197,Mini
-707,Weld Mold Company,27,Mini
-708,"Weld Wire Company, Inc.",20107,Mini
-709,WELDARC GAS AND SAFETY SUPPLY,49780,Mini
-710,Weldcor Suppliers AB Inc.,1018,Mini
-711,"Welder Services of Florida, Inc.. ROBERT OXYGEN",66172,Mini
-712,"Welders Equipment, Inc.",285346,Medium
-713,WELDER'S HEAVEN,51222,Mini
-714,Welders Supply - Childress TX,3253,Mini
-715,Welders Supply Company - WI,41336,Mini
-716,Welder's Supply& Equipment,460,Mini
-717,Welders Warehouse,30045,Mini
-718,WELDFAST (UK) LTD,3881,Mini
-719,Welding Equipment & Supply,0,Mini
-720,WELDING FOR LESS LLC,38526,Mini
-721,WELDING MATERIAL SALES,4804,Mini
-722,"WELDING SUPPLIES ""R"" US",70277,Mini
-723,"WELDING SUPPLY OF FLORIDA, INC.",4567,Mini
-724,WELDING WIRE WAREHOUSE,31542,Mini
-725,Weldor's Supply and Steel,47249,Mini
-726,"WELDOR'S SUPPLY HOUSE,INC.",84277,Small
-727,"Weldquip, Inc.",1094,Mini
-728,"Welds Supply, Inc.",21416,Mini
-729,Weldtech Alloys & Corp.,1659,Mini
-730,WELDTOOL TECHNOLOGIES INC.,5594,Mini
-731,"WELSCO, INC.",369077,Medium
-732,WESCO INTEGRATED SUPPLY,186,Mini
-733,"West Penn Laco, Inc.",25730,Mini
-734,WESTERN WELDING,3181,Mini
-735,WHOLESALE EQUIPMENT,33379,Mini
-736,"Willard C. Starcher, Inc.",35257,Mini
-737,WINNICK SUPPLY INC.,48,Mini
-738,WISCO - WELDING INDUSTRIAL SUPPLY CO.,50505,Mini
-739,WORKSHOPS FOR WARRIORS,0,Mini
-740,WRIGHT BROS IND SUPPLY,27693,Mini
-741,X & D SUPPLY,835,Mini
-742,YESENNIA RUBIO CELLERI,3131,Mini
-743,"YOUNG WELDING SUPPLY, Inc.",75098,Small
-744,ZELDING LLC.,489921,Medium
-745,"Zhejiang Namag Equipment Manufacturing Co.,Ltd.",2434,Mini
-746,Zika Electrodes (2004) LTD.,27095,Mini
-747,*Dupuy Oxygen and Supply Co.,,Best
-748,*WESTAIR GASES AND EQUIPMENT,,Best
-749,AIRGAS CENTRAL / OKAI02,,Best
-750,Airgas Group,,Best
-751,AIRGAS SOUTH / GASO01,,Best
-752,CONROE WELDING SUPPLY,,Best
-753,IWS Gas & Supply of Texas,,Best
-754,MATHESON TRIGAS INC,,Best
-755,"NEXAIR, LLC",,Best
-756,PRAXAIR / MAIN,,Best
-757,ROBERTS OXYGEN COMPANY INC,,Best
+﻿,CustomerName,3Cluster
+0,*Ann Arbor Welding Supply Co.,Small
+1,Tri-State Oxygen,Small
+2,Interalloys,Small
+3,Oconee Welding Supply,Small
+4,*Plains Welding supply,Small
+5,Humphries / **TL Only:70S-6,Small
+6,COLONIAL HARDWARE CORPORATION,Small
+7,Carolina Industrial Supply,Small
+8,HERRAMIENTAS Y MAS S.A.,Small
+9,"Newberg Steel and Fabrication, Inc.",Small
+10,HIPTEC AS,Small
+11,"LONE STAR REPAIR, INC",Small
+12,"ALT Welding Supplies, Inc.",Small
+13,DIAMOND TOOL & FASTENERS,Small
+14,"Brave Industrial Fastener, Inc",Small
+15,Carolina Carbonic,Small
+16,"A & B METAL MFG. CO., INC.",Small
+17,*Cee Kay Supply,Small
+18,"Great Dynamic Indonesia, PT.",Small
+19,Welding Equipment & Supply,Small
+20,LOCK & EQUIPMENT RENTALS,Small
+21,"TOL-CO, INC",Small
+22,Co-2 Direct Inc.,Small
+23,ALLIANCE WELDING/ TECH AIR/ AIRGAS,Small
+24,Pereira Sales Company,Small
+25,"*General Welding Supply - Westbury, NY",Small
+26,Equipment Sales & Service - ESSI,Small
+27,PT KENZINDO SEJAHTER ABADI,Small
+28,TRI-STATE IND. SUPPLY/ T-SISI,Small
+29,ELARC WELDING PRODUCTS LIMITED,Small
+30,M TEK,Small
+31,Wayne Oxygen & Welding Supply Co.,Small
+32,*Central Welding Supply,Small
+33,Cross Texas Supply,Small
+34,*SHASTA WELDING SUPPLY,Small
+35,Weldtech Alloys & Corp.,Small
+36,Selectrode Industries,Small
+37,MODERN WELDING CO.,Small
+38,*Airweld Inc - IL,Small
+39,HOUSTON WELDERS SUPPLY LLC,Small
+40,"ADF WELDING & MEDICAL, INC.",Small
+41,"United Abrasives & Welding, LLC",Small
+42,Baracara Quarries Inc.,Small
+43,Advanced Welding & Industrial,Small
+44,McGregor  Welding Supply,Small
+45,Pacific Welding Supply LLC,Small
+46,Servicios Industriales,Small
+47,METALBRAS METALURGICA BRASILIENSE LTDA,Small
+48,SS INDUSTRIAL EQUIPMENT & SUPPLY CO,Small
+49,SourceHub LLC,Small
+50,Blake Williams,Small
+51,CULLMAN SUPPLY LLC,Small
+52,Southern Welding Supply - LA,Small
+53,N-E-P Corporation,Small
+54,"RAM TOOL & SUPPLY CO., INC",Small
+55,Three Mules Welding Supplies,Small
+56,Summers Metals & More,Small
+57,MAGNEGAS/ ARC-LA-TEC WELDING SUPPLY,Small
+58,AIR LIQUIDE AMERICA,Small
+59,"Metalweld, Inc.",Small
+60,Bob Martin Company,Small
+61,CV. Cantika Mandiri,Small
+62,Salem Welding and Supply Company Inc.,Small
+63,"Rose Steel Center, Inc.",Small
+64,EXOCOR LTD,Small
+65,OXYGEN PRODUCTS EDMONTON LTD.,Small
+66,"HIGGSLAB CO., LTD",Small
+67,Boyd Industrial Supply Co.,Small
+68,DDI Welding Productos Ind.,Small
+69,POTOMAC STEEL & SUPPLY INC,Small
+70,TI Squared Technologies,Small
+71,AM Supply LLC.,Small
+72,Gas Service Group Supply,Small
+73,"TOMBOY DISTRIBUTION, LLC",Small
+74,BISHOP WELDING SUPPLY,Small
+75,"AZSOS, INC.",Small
+76,"Albright Welding Supply Co, Inc.",Small
+77,*Liberty Industrial Gases,Small
+78,KEITA YUSUF,Small
+79,PRINCE/IZANTCOMPANY,Small
+80,Machinery & Welder Corp.,Small
+81,INNOVATOR SURFACE TECH. LTD,Small
+82,Industria En Movimento,Small
+83,TECH AIR COMPANIES (GASCO),Small
+84,Welders Supply - Childress TX,Small
+85,ADVANCED WELDER REPAIR,Small
+86,Argen / An-tech lab,Small
+87,J.W. KENNEDY & SON WELDING,Small
+88,MAGNEGAS/ GREEN ARC SUPPLY,Small
+89,MAGNEGAS WELDING SUPPLY - SOUTHEAST LLC,Small
+90,Browns Welding Supply,Small
+91,"Capitol Welders Supply Co., Inc./ Praxair",Small
+92,Fullerton Welding Supply,Small
+93,UNITED MINING INDUSTRIES,Small
+94,Clark Industrial Supply,Small
+95,NOGA TOOLS LTD.,Small
+96,Tecni-Sistemas,Small
+97,Saudi Industrial Tools Co.,Small
+98,SPECIALTY METALS,Small
+99,MAGNEGAS/ Complete Welding Of San Diego,Small
+100,Page Steel Inc.,Small
+101,ARC RITE WELDING,Small
+102,HERRAMIENTAS PROFESIONALES VYK,Small
+103,Hai Advanced Material,Small
+104,Gano Welding Supply,Small
+105,"HANKOOK WELDTEK CO., LTD",Small
+106,NGOC THANH COMPANY LTD,Small
+107,Industrial Solution,Small
+108,"*Thompson Bro. Supplies, Inc.",Small
+109,"Rainier Welding Supplies, LLC",Small
+110,Baltimore Welding Supply,Small
+111,TRISTAR SOLUTION TECHNOLOGY,Small
+112,David Eisen Machinery LTD.,Small
+113,Industrial Alloys Co.,Small
+114,DAON SOLTEC,Small
+115,DJ'S WELDING SUPPLY,Small
+116,AIRGAS SAFETY / PAAI02,Small
+117,*Usoxo Gas Supply Centers,Small
+118,HCL Machine Works,Small
+119,M.A.C. Sales Company,Small
+120,RW TECHNIK,Small
+121,Umpqua Industrial Supply,Small
+122,United Agricultural Corp. Inc.,Small
+123,APCO SUPPLY,Small
+124,Industrial Pipe & Steel Co.,Small
+125,Jinsung Sealtech Co.,Small
+126,"PRECISION EQUIPMENT SYSTEMS, LLC",Small
+127,WELDING MATERIAL SALES,Small
+128,*A-OX WELDING SUPPLY COMPANY,Small
+129,Weldcor Suppliers AB Inc.,Small
+130,Washington Alloy Co. (TX001),Small
+131,WORKSHOPS FOR WARRIORS,Small
+132,EQUIPOS FRIGORIFICOS SAS,Small
+133,HR Industrial,Small
+134,AIRGAS - MOBILE INDUSTRIAL SUPPLY,Small
+135,CHI-SHIOU ENTERPRISE CO.,Small
+136,"AIR 1 SUPPLY CO., INC.",Small
+137,"GRANITE INDUSTRIAL GASES, INC.",Small
+138,Dynalloy Industries,Small
+139,*WELDWORLD CORP,Small
+140,AMWEST,Small
+141,C and F Machinery Corp,Small
+142,Rino Metals,Small
+143,S&S SUPPLIES & SOLUTIONS,Small
+144,TRI-STAR GASES / TECH AIR/ AIRGAS,Small
+145,IMPORTADORA INDUSTRIAL GEAR SUPPLY SPA,Small
+146,PALMER WELDING SUPPLY,Small
+147,Eddie's Ace Hardware,Small
+148,ACTION GAS &amp; WELDING SUPPLY,Small
+149,Scully Welding Supply Corp/ Tech Air,Small
+150,"OXYGEN SUPPLY CO., INC.",Small
+151,"UNIMETAL SOLDADURAS, S. DE R.L. DE C.V.",Small
+152,*BROOKS RANGE SUPPLY INC.,Small
+153,ANOTHER SOURCE OF SUPPLY,Small
+154,Allmet,Small
+155,DISCOUNT WELDS,Small
+156,"Goodman Supply, Inc.",Small
+157,TECH AIR / MAIN/ AIRGAS,Medium
+158,Lynarc Welding Supplies & Material CO,Small
+159,Nitrogas Welding Solutions,Small
+160,Mike Moore,Small
+161,"Willard C. Starcher, Inc.",Small
+162,"SOUTHERN AIR CONDITIONING SUPPLY, INC.",Small
+163,T&T Supply Co.,Small
+164,Welder's Supply& Equipment,Small
+165,AL AHWAL IND EQUIP TR. LLC,Small
+166,"A. KALMERTON WELDING SUPPLIES, LLC",Small
+167,"CEBOTECH, INC",Small
+168,*OXIGENO Y ACETILENO,Small
+169,BUSINESS TRIBUNE CO. LTD,Small
+170,M. D MARQUES INC / DBA MARFAB,Small
+171,Awisco,Small
+172,Julio Cesar Alegria Amaya,Small
+173,"Blue Water Industrial Products, Inc.",Small
+174,SMI Distributing,Small
+175,"Gardena Welding Supply Co., Inc.",Small
+176,*A & B Welding Supply,Small
+177,F&M Mafco / Direct,Small
+178,H&H Supply Co (H & H),Small
+179,*All-Weld Products / NYMC01,Small
+180,Rywal - RHC Sp. z o. o.,Small
+181,Marathon Systems Control,Small
+182,CIE S.A.,Small
+183,American Industrial - OK,Small
+184,County Industrial Supply,Small
+185,Muskegon Welding Supply,Small
+186,Lagrange Supply,Small
+187,CLH Supply,Small
+188,Miami Int'l Machinery & Equip.,Small
+189,*B&J Welding Supply,Small
+190,Josef Inc.,Small
+191,Tri Weld Industries/A-1 Compressed,Small
+192,PHILLIPS STEEL COMPANY,Small
+193,American INDEPENDENT,Small
+194,MODESTO WELDING PRODUCTS,Small
+195,Larry Dodson,Small
+196,Salmar Ferreteria,Small
+197,ARC WORKS & INDUSTRIAL SUPPLY CO. LLC,Small
+198,*JW WELDING SUPPLY,Small
+199,Delta Mechanical,Small
+200,USAMEX SOLDADURAS SA DE CV (Gramo),Small
+201,Stumpf Welding Supply,Small
+202,Miller Welding Supply,Small
+203,VAGABOND WELDING SUPPLY,Small
+204,Soldex S.A.,Small
+205,S & D Supply,Small
+206,*California Welding Supply,Small
+207,NAPOTNIK WELDING SUPPLIES,Small
+208,LOWERS INDUSTRIAL SUPPLY,Small
+209,"WELDING SUPPLY OF FLORIDA, INC.",Small
+210,ALLSTATE INDUSTRIAL,Small
+211,Lefeld Industrial and Welding Supplies,Small
+212,PHOENIX WELDING SUPPLY Co.,Small
+213,DXP Enterprises,Small
+214,G&E WELDING SUPPLY CO,Small
+215,*Toll Gas & Welding Supply,Small
+216,Thumb Welding Supplies,Small
+217,*Compressed Gas & Supply Co.,Medium
+218,TEXAS ICO INC.,Small
+219,"Professional Welding Supply, Inc",Small
+220,Tech Air Of California/ AIRGAS,Medium
+221,*Northern Gases and Supply,Small
+222,McHolland Services LLc,Small
+223,*ALL GAS & WELDING SUPPLY CO.,Small
+224,METRO WELDING SUPPLY - MN,Small
+225,"*F&M Mafco, Inc",Small
+226,Jones Welding & Industrial Supply Inc.,Small
+227,"Preferred Welder Sales, Inc.",Small
+228,Atlas Welding Accessories,Small
+229,Anderson Tool & Equipment Inc.,Small
+230,AIRGAS - HIGH PLAINS GAS & SUPPLY LLC,Small
+231,TS Distributors,Medium
+232,"RACING ELECTRIC INSTRUMENT CO., LTD.",Small
+233,"HP IRON, INC/ dba HITCHN' POST IRON",Small
+234,VT WELDING SUPPLY CO,Small
+235,"McDurmon Distributing, Inc.",Small
+236,Jones Welding Supply Inc.,Small
+237,"Wallace Propane & Appliance, Inc",Small
+238,US Cylinder Gas,Small
+239,Wahls Welding Supply Inc,Small
+240,Unioonsa S. A De C.V,Small
+241,FASTENER WAREHOUSE,Small
+242,*H-Town Oxygen Company,Small
+243,AM INDUSTRIAL PRODUCTS LLC,Small
+244,ALASKA BOLT & CHAIN,Small
+245,"HIGHMARK MARINE FABRICATION, LLC",Small
+246,"Scholzen Products Company, Inc.",Small
+247,"LINKWELD TECH. CO., LTD",Small
+248,Mauer Supply Company,Small
+249,CHATFIELD MACHINE INC,Small
+250,"Vulcan Systems, Inc. / MIVU01",Small
+251,*Youngstown Oxygen & Welding,Small
+252,AMERICAN AIR-TECH,Small
+253,Coalfield Parts & Supply,Small
+254,"INCOVE, INC.",Small
+255,Mtg Fasteners Inc.,Small
+256,COLORADO COMPRESSED GASES,Small
+257,Blackhawk Supply Division OF,Small
+258,Mahatta Trading Co.,Small
+259,"EXCELLOY INDUSTRIES, INC",Small
+260,AIR UNLIMITED,Small
+261,HARRIS CALORIFIC SALES INC,Small
+262,Lahatte Supply,Small
+263,HELIUM INC,Small
+264,CRAIG WELDING SUPPLY CO.,Small
+265,NORTHBAY GAS,Small
+266,WRIGHT BROS IND SUPPLY,Small
+267,United States Welding (NVUS01 - Carson),Small
+268,*Ilmo Products Co.,Small
+269,"TRI-STATE INDUSTRIAL SUPPLY, INC",Small
+270,"B & R INDUSTRIAL SUPPLY, INC.",Small
+271,Empire Welding Supply,Small
+272,ONESTOP INDUSTRIAL SUPPLY,Small
+273,"Great Lakes Welding Supply, Inc.",Small
+274,DAIGLE WELDING SUPPLY,Small
+275,*Middlesex Gases & Technologie,Small
+276,Southwest Welders Supply,Small
+277,UNITED WELDING SUPPLY LLC,Small
+278,"*Huber Supply, Inc.",Small
+279,*American Welding Supply Inc.,Small
+280,*ARKANSAS WELDING AND INDUSRIAL,Small
+281,R & R GAS AND EQUIPMENT INC.,Small
+282,WELDER'S HEAVEN,Small
+283,"Zhejiang Namag Equipment Manufacturing Co.,Ltd.",Small
+284,"Calko Steel, Inc.",Small
+285,POPE SUPPLY,Small
+286,Cronatron C/O Lawson Products,Small
+287,"Independent Welding Supply Inc.- Fort Worth, TX",Small
+288,Lancaster Alloys Company,Small
+289,AAA  ORNAMENTAL IRON SUPPLIES,Small
+290,ADMAR INDUSTRIAL SALES CORP,Small
+291,American Maintenance Systems,Small
+292,"Precision Alloy And Supply, Inc.",Medium
+293,"TMI/ Texas Metal Industries, Inc.",Small
+294,*GTW Welding Supply,Small
+295,Welders Supply Company - WI,Small
+296,Minneapolis Oxygen Co.,Small
+297,*Central McGowan,Small
+298,"Weldquip, Inc.",Small
+299,Rudy & Associates,Small
+300,Tom Hill,Small
+301,MANUFACTURERS ALLIANCE / BRUCE FERRARO,Small
+302,Gulf Marine & Indust. Supply,Small
+303,AM SINGLEY / JIMMY SINGLEY,Small
+304,"EVD Equipment Co., LTD",Small
+305,"TRICOR Industrial , Inc",Small
+306,WELDTOOL TECHNOLOGIES INC.,Small
+307,Dave Ormseth,Small
+308,Industrial Equipment & Welding,Small
+309,"Welds Supply, Inc.",Small
+310,AIRGAS - Mahany Welding Supply,Small
+311,"Alcam, Inc.",Small
+312,WELDARC GAS AND SAFETY SUPPLY,Small
+313,J.S. Burks & Son Supply Co.,Small
+314,GASES TECNOLOGIA Y ELECTRODOS SA DE,Small
+315,D & D Industrial Supply,Small
+316,Direct Distributors Of NC Inc.,Small
+317,C&C Supply Company,Small
+318,MAXI SOURCE MARKETING,Small
+319,*Weldstar Co.,Small
+320,Rosco Industrial Supply Co.,Small
+321,Airmix Welding Supply,Small
+322,Maverick Welding Supply - CA,Small
+323,NORTHSIDE WELDING SUPPLY,Small
+324,ADVANCED GAS PRODUCTS & WELDING SUPPLIES,Small
+325,X & D SUPPLY,Small
+326,"ACE GAS, LLC",Small
+327,"KING CITY INDUSTRIAL SUPPLY, INC.",Small
+328,Stoody Industrial & Welding,Small
+329,VICTOR WELDING - CA,Small
+330,California Steel & Ornamental,Small
+331,La Habra Welding Supply,Small
+332,Industrial Welding Supply-CA,Small
+333,*Jackson Welding Supply Co.,Small
+334,INTERCHEM LIMITED,Small
+335,*Mabscott Supply,Small
+336,*McKinney Welding Supply Co,Medium
+337,Palestine Welding Industrial,Small
+338,*Coastal Welding Supply,Small
+339,Eutectic Corporation,Small
+340,Performance Alloys Corp,Small
+341,*ROCKY MOUNTAIN AIR (US Welding),Small
+342,ARC-N-SPARK,Small
+343,ROCKMOUNT RESEARCH & ALLOYS,Medium
+344,*SAWTELLE AND ROSPRIM IND,Small
+345,NOBLE EQUIPMENT EST.,Small
+346,BILL DIMUZIO/ D & B TECHNICAL SALES,Small
+347,DELTA GASES,Small
+348,Arc3 Gases,Medium
+349,Suministros Internacionales,Small
+350,"Rayco Supply, Inc.",Small
+351,Magnolia Steel & Industrial,Small
+352,"Beckley Welding Supply, Inc.",Small
+353,Big Apple Welding Supply Inc.,Small
+354,Huron Industrial Supply,Small
+355,Del Rio Welders Equipment,Small
+356,Zika Electrodes (2004) LTD.,Small
+357,AMERICAN WELDING SUPPLY CO.,Small
+358,*Greco Gas Inc.,Small
+359,*Piners Welding Supply,Small
+360,*Purity Cylinder Gases Inc.,Small
+361,"*Indiana Oxygen Company, Inc.",Small
+362,SOS GASES INC,Small
+363,MIAMI INDUSTRIAL GASES INC/ dba SERVICE WELDING SUPPLY,Small
+364,BILL BECKMAN INC.,Small
+365,AMERICAN INDUSTRIAL SUPPY - TX,Small
+366,CBS Ventures,Small
+367,OURCO SUPPLY CORPORATION,Small
+368,ATL WELDING SUPPLY LLC,Small
+369,GENERAL AIR SERVICE & SUPPLY,Small
+370,Patton Sales Corporation,Medium
+371,JSM STEEL & ORNAMENTAL INC.,Small
+372,"Lenoir Oxygen Supply Co., Inc.",Small
+373,Lee's Tools,Small
+374,PR - WELDING & INDUSTRIAL SUPPLY CO/ WISCO,Small
+375,WELDING WIRE WAREHOUSE,Small
+376,Harris Industrial Gases,Small
+377,INDEPENDENT WELDING SUPPLY LLC - OR,Small
+378,VALLEY OXYGEN  INC.,Small
+379,"Inland Empire Industrial Supply, Inc.",Small
+380,STARKOS GmbH,Small
+381,East New York Hardware,Medium
+382,*Evansville Welding Supply,Small
+383,*Flint  Welding Supply,Small
+384,CAYO STEEL WORKS LTD,Small
+385,"Safety Plus, Inc.",Medium
+386,"Mid-South Welding Supply, Inc",Small
+387,*Ace Welding Supply,Small
+388,"GULF STATE CHEMICAL & WELDING SUPPLY, INC",Small
+389,"WELDOR'S SUPPLY HOUSE,INC.",Medium
+390,A-L COMP GASES - TN,Small
+391,*Metro WS - MI - IWDC,Small
+392,Terry Supply Company,Small
+393,American Patriots Sales & Serv./Sanitz enterprises Inc.,Small
+394,"Magnegas/ Complete Cutting Welding Supplies, Inc.",Small
+395,Gilmore Liquid Air,Small
+396,ABSOLUTE INDUSTRIAL SUPPLY,Small
+397,Weldor's Supply and Steel,Small
+398,"MJB Welding Supply, Inc.",Small
+399,ARIZONA STEEL & ORNAMENTAL SUPPLY,Small
+400,WHOLESALE EQUIPMENT,Small
+401,"Sentry Fire & Welding Supply, Inc.",Small
+402,J & L Hardfacing Alloys LLC,Small
+403,"AIRBULK GAS & WELDING SUPPLIES, INC",Small
+404,High Quality Alloys (HQA),Small
+405,HOCON INDUSTRIAL GASES,Large
+406,"YOUNG WELDING SUPPLY, Inc.",Small
+407,"VALLEN DISTRIBUTION, INC",Small
+408,*Industrial Welding Supply - NJ,Small
+409,"LIBERTY SUPPLY, Inc.",Small
+410,Cyg International Inc.,Small
+411,*Clovis Equipment And Supply,Small
+412,*Welders Supply of Louisville,Small
+413,Northeast Gas Services,Small
+414,*Delille Oxygen Company,Small
+415,"*UNITED WELDING SUPPLY CO., INC/ TAYLOR WELDING",Small
+416,STEEL INDUSTRY SERVICES,Small
+417,Dale Oxygen,Small
+418,Bickett Machine & Gas Supply,Small
+419,DIXIE WELDING,Small
+420,Ingenieursbureau Van Dijk,Small
+421,"K-T Industries, LLC",Small
+422,RGV Welding Supply/ TXDS01,Small
+423,Soldar De chihuahua Sa De CV,Small
+424,"DMH ABEAR ENTERPRISES, LLC",Small
+425,FLETCHER SUPPLY COMPANY,Small
+426,"*Central Welding Supply - N Lakewood, WA",Small
+427,GATOR CORP,Small
+428,*Fresno Oxygen&Welding Supply,Small
+429,MR. ROLAND SIHOMBING,Small
+430,A-1 Welding & Safety Equip. Inc.,Small
+431,Welders Warehouse,Small
+432,"A-WELDERS & MEDICAL SUPPLY, INC",Small
+433,ANN ARBOR WELDING SUPPLY CO,Medium
+434,Washington Alloy Co. (NC001),Small
+435,*EARLBECK GASES & TECHNOLOGIES,Small
+436,Dockson Corporation,Small
+437,"Soule's Auto Supply/ dba, Regulator Service Company",Small
+438,ORNAMENTAL IRON SUPPLY,Small
+439,JF MARTIN INC.,Small
+440,INDUSTRIAL METAL SUPPLY,Small
+441,Red Ball Oxygen Company,Medium
+442,U.S Truss Steel Buildings Inc,Small
+443,Champion Industrial Sales,Small
+444,Tristar Welding Supply Co.,Large
+445,Moreno Rojas Juan Gabriel,Small
+446,Fort Stockton Welding Supply,Small
+447,OIL LEGACY ENTERPRISES LLC/dba JERRY'S WELDING SUPPLY,Small
+448,Bestway Welding Supply Co.,Medium
+449,Stecher Ingenieria y Servicios EIRL,Small
+450,*WILSON SUPPLY,Small
+451,*Cryo Weld Corp.,Small
+452,PENN TOOL SALES & SERVICE INC,Medium
+453,"INDEPENDENT WELDING SUPPLY, LLC.",Small
+454,S.J Smith Welding Supply,Small
+455,"Suncor, Inc.",Small
+456,"*R & M Welding Products, Inc.",Small
+457,Lessors Inc.,Small
+458,Fsh Welding Canada,Small
+459,"INPRO, INC.",Medium
+460,Joramco,Small
+461,Great River Industrial Supply,Small
+462,GM WELDING SUPPLY,Small
+463,H-TOWN OXYGEN COMPANY,Small
+464,"NATIONAL WELDING SUPPLY COMPANY, INC.",Medium
+465,CWOLF INDUSTRIES LLC,Small
+466,AMERICAN INDUSTRIAL - CA,Small
+467,Eutectic Canada /  XCAEU1,Small
+468,Industrial Maintenance Supply,Small
+469,VALLEY WELDING SUPPLY,Medium
+470,REAL GASES S. DE RL DE CV,Small
+471,UNITED WELDING SUPPLY COMPANY,Small
+472,SPECIALTY WELDING SUPPLY,Small
+473,King Architectural Metals,Small
+474,GORDY'S WELDING SUPPLY,Small
+475,JOHNS SALES & SERVICE INC.,Medium
+476,"Seaboard Welding Supply, Inc",Small
+477,*Hohenschild Welders Supply,Medium
+478,"West Penn Laco, Inc.",Small
+479,*Maine Oxy Acetylene,Large
+480,Mine & Mill Supply Co,Small
+481,*Sutton-Garten Co.,Small
+482,"Delta Welding Supply, Inc.",Small
+483,"AB Supply Company, Inc",Small
+484,Interstate Welding & Steel Sup,Small
+485,"Industrial Welders Supply, Inc.",Small
+486,"Steel Supply, L.P.",Medium
+487,SERRANO & SONS II,Medium
+488,"WELDING SUPPLIES ""R"" US",Small
+489,MagneGas Welding Supply - West LLC,Medium
+490,County Welding Supply Co.,Small
+491,"J. A. Cunningham Equipment, Inc.",Small
+492,Cora Technology,Small
+493,TECHGAS,Small
+494,SWEET WATER SUPPLIES LLC,Small
+495,Cabarrus Welding Supply,Small
+496,"Knight Welding Supply, LLC",Small
+497,*Mississippi Welders Supply,Small
+498,Florida Georgia Welding Supply,Medium
+499,GENERAL FACTORY SUPPLY,Small
+500,S & K DIRECT STEEL INC.,Small
+501,*Lampton Welding Supplies,Medium
+502,Daxam S De Rl De Cv/ OLD COUNTRY BBQ PITS,Small
+503,Associated Welding Supply-SWSI,Small
+504,Industrial Welding Supply-OR (ADA),Small
+505,SKIPCO WELDING & INDUSTRIAL INC,Small
+506,MOTION INDUSTRIES CP01,Large
+507,A-L SIERRA WELDING PRODUCTS,Small
+508,"*Koehler Welding Supply, Inc.",Small
+509,TEAM ALLIED DISTRIBUTION,Medium
+510,Universal Manufacturers,Small
+511,Alloy Sales,Small
+512,*Four Corners Welding supply,Medium
+513,BLANDFORD WELDING MACHINE AND SUPPLIES,Small
+514,MILLER GASES & EQUIPMENT,Small
+515,AWG-AMERICAN WELDING & GAS (HQ),Medium
+516,Strate Welding Supply Company,Medium
+517,*Welders Supply Co.,Small
+518,Dytron Corp.,Small
+519,"*Wilson Products Co., Inc.",Medium
+520,"AGL Welding Supply Co., Inc.",Small
+521,WISCO - WELDING INDUSTRIAL SUPPLY CO.,Small
+522,*Pennsylvania Welding Supply,Small
+523,"Sexton Welding Supply Co., Inc.",Small
+524,"American Welding Supply, Inc.",Medium
+525,Mid-States Distrib,Medium
+526,*Southern Oxy & Welding Supply,Small
+527,"SRI - Supplies for Racing & Industry, Inc",Small
+528,*JONES WELDING AND INDUSTRIAL SUPPLY,Large
+529,Terrace Supply Co.,Small
+530,BOGGS GASES,Small
+531,M Welding Supply,Small
+532,*Jackson Welding& Gas Product,Small
+533,LAKE WELDING SUPPLIES,Medium
+534,American Gases Corporation,Small
+535,CRISOTH DISTRIBUIDORA COMERCIAL E INDUSTRIAL SA DE CV,Medium
+536,Victor Welding - OK,Medium
+537,*Alltex Welding Supply,Large
+538,NEW BRAUNFELS WELDERS SUPPLY,Small
+539,Igo's Welding Supply Co.,Small
+540,AIRWELD INC/BRONX WELDING SUPPLY/ATLANTC WELDING SUPPLY,Medium
+541,MAINE OXY ACETYLENE (70S-6 Wire Account),Medium
+542,*Skyoxygen,Small
+543,Express Mobile Welding Supply,Small
+544,"COASTAL INDUSTRIAL SUPPLY, LLC",Small
+545,*James C. Dawes Co.,Large
+546,Total Welding Supply,Small
+547,*OE Meyer Co.,Large
+548,STEELCORE INDUSTRIAL SUPPLY,Large
+549,*SIDNEY LEE WELDING SUPPLY,Large
+550,Metro Products Inc,Small
+551,James Oxygen & Supply Co.,Medium
+552,DJB Gas Services Inc.,Small
+553,*Haun Welding Supply,Medium
+554,"United Rentals, Inc.",Small
+555,"Carolina Collision Equipment, LLC",Small
+556,*Norco Inc.,Small
+558,Central Ohio Welding Company,Small
+559,ZELDING LLC.,Large
+560,"HI-POWER WELDING, INC.",Small
+561,*Arcweld Inc,Small
+562,MagneGas Welding Supply - South LLC,Small
+563,"OZARCGAS EQUIPMENT & SUPPLY, INC",Small
+564,Dave Colwell,Small
+565,METROPLEX WELDING SUPPLY,Medium
+566,Abatix Corp.,Small
+567,*James Supplies And Rental,Medium
+568,*SIMS ORANGE WELDING SUPPLY,Small
+569,"Welders Equipment, Inc.",Medium
+570,Richards Supply Co.,Medium
+571,GOPHER INDUSTRIAL,Medium
+572,"*Humphries, Inc",Small
+573,A-L Compressed Gases of Spokane,Medium
+574,ARC-ZONE,Medium
+575,"*Encore Welding And Ind. Supply, LLC",Medium
+576,*ADVANCED GASES & EQUIPMENT INC,Medium
+577,"Maverick Welding Supplies, Inc.",Medium
+578,Keen Compressed Gas Co.,Medium
+579,VOLUNTEER WELDING SUPPLY INC.,Medium
+580,PENINSULA WELDING & MEDICAL SUPPLY,Small
+581,*Industrial Source,Small
+582,WECO SUPPLY,Small
+583,*Vern Lewis Welding Supplies,Medium
+584,"Schorr Metal, Inc.",Small
+585,FASTENAL COMPANY,Small
+586,FOREST CITY WELDING SUPPLY,Small
+587,Church Towne Gas & Welding Supply,Small
+588,"Weld Wire Company, Inc.",Small
+589,Oxygen Service Company,Medium
+590,"Eagle Sales Company, Inc.",Small
+591,DYECO INC.,Small
+592,"Andy Oxy Co., Inc.",Small
+593,Baker's Gas & Welding Supplies,Small
+594,DGI SUPPLY a DoALL Company,Small
+595,IWS/ SOUTHERN GAS & SUPPLY CO,Large
+598,Asia Soudure Co. Ltd,Small
+599,"County Specialty Gases, LLC",Small
+600,Coryell Welders Supply,Medium
+601,Revell Supply Group,Medium
+602,COMPRESSED GAS & SUPPLY CO/ PRAXAIR,Small
+603,Fort Worth Welders Supply Inc.,Large
+606,BUCKEYE WELDING SUPPLY CO.,Medium
+607,OXARC,Small
+608,*California Tools (Cal Tool),Large
+610,"ROBINSON WELDING SUPPLY, INC.",Small
+611,*CAMERON WELDING SUPPLY,Large
+612,Eureka Oxygen Company,Medium
+613,AIRGAS WEST / CASO04,Large
+614,*Complete Welders Supply,Medium
+615,*ALLIED GASES & WELDING SUPPLIES INC,Medium
+616,WELDING FOR LESS LLC,Small
+617,East Bay Weldng Supply,Small
+618,Cal Tool / Helmets & 70S-6 093 & 123 Only,Large
+619,*General Distributing Co.,Medium
+620,SODEL,Small
+621,United Industrial & Welding,Small
+624,GASES AND INDUSTRIAL SUPPLY INC (OASA),Large
+625,"Crumpton Welding Supply & Equip., Inc",Large
+627,*Arco Welding Supply Co.,Medium
+628,Southern Welders Supply,Small
+629,T W Smith,Small
+630,*Modern Supply Co.,Small
+631,*HOLSTON GASES,Large
+632,*BENTON'S WELDING SUPPLY,Medium
+633,AIRGAS NORTH / NHAI01,Large
+634,RIVERHAWK INDUSTRIAL SUPPLY,Medium
+636,"Carolina Tool & Supply, LLC",Small
+637,TIGDEPOT.COM/WJS CONSULTING,Small
+638,*Arc3 Gases South,Large
+639,ARCSOURCE,Medium
+640,*South Jersey Welding Supply,Medium
+641,BC INDUSTRIAL SUPPLY INC,Large
+642,"*Arc Gas And Supply, LLC",Medium
+643,KENNCO LLC,Small
+644,SERRANO & SONS WELDING SUPPLY,Medium
+645,*WESCO GAS / ALWE02,Large
+647,"Tri-Arc, Inc.",Small
+648,NATWEL SUPPLY CORP.,Medium
+649,*Noble Gas Solutions,Small
+650,New Bedford Welding Supply,Medium
+651,Falcon Consumables LLC,Small
+652,"Torco Supply Co., Inc.",Small
+653,Central Welding Supply - Alvin TX,Medium
+654,*Ivey Industries,Small
+655,"WELSCO, INC.",Large
+656,"Phillip's Welding Supply, Inc.",Small
+657,GETAWELDER.COM INC dba GULF COAST GAS & EQUIPMENT,Medium
+658,IWS Gas & Supply of Texas,Best
+659,*Dupuy Oxygen and Supply Co.,Best
+660,Airgas Group,Best
+661,AIRGAS CENTRAL / OKAI02,Best
+662,MATHESON TRIGAS INC,Best
+663,PRAXAIR / MAIN,Best
+664,*WESTAIR GASES AND EQUIPMENT,Best
+665,ROBERTS OXYGEN COMPANY INC,Best
+666,AIRGAS SOUTH / GASO01,Best
+667,"NEXAIR, LLC",Best
+668,CONROE WELDING SUPPLY,Best
