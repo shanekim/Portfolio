@@ -25,7 +25,7 @@ Result: Created a clear high-level visual dashboard that tracks stock levels and
 Refer to: Inventory management - Stock Transfer_.ipynb
 
 
-### Projects from Columbia University & Dataquest & Datacamp
+### Personal Projects 
 
 Refer to: Kaggle Project.ipynb
 
