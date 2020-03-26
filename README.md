@@ -1,5 +1,12 @@
 # Portfolio
 
+
+### Featured Personal Projects 
+
+Refer to: LSTM-XBTUSD
+
+Refer to: Pair Trading Analysis
+
 ### Washington Alloy
 
 #### Product Recommendation Engine
