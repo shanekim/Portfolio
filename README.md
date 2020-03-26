@@ -1,7 +1,7 @@
 # Portfolio
 
 
-### Featured Personal Projects 
+### Personal Projects 
 
 Refer to: LSTM-XBTUSD
 
